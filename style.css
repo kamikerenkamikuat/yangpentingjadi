@@ -1,7 +1,7 @@
 html
 h1{text-align:center;color:brown;}
 p{color:#0034hh}
-body {background-color:green;border:4px solid black;border-radius:8px;}
+body {background-color:#F7F5EF;border:4px #647C64;border-radius:8px;}
 ul {list-style-type:none;}
 li {display:inline;
     padding:10px;
