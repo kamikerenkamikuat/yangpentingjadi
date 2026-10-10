@@ -32,17 +32,6 @@ marquee {
 }
 </style>
 </head>
-
-<body>
-    <h1>Website Gue 💜</h1>
-    <p>Halo cuy!</p>
-
-    <ul>
-        <li>Home</li>
-        <li>About</li>
-        <li>Contact</li>
-    </ul>
-
     <marquee>Welcome to my website!</marquee>
 </body>
 </html>
