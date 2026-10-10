@@ -1,12 +1,22 @@
-html
-h1{text-align:center;color:brown;}
-p{color:#0034hh}
-body {background-color:#F7F5EF;border:4px #647C64;border-radius:8px;}
-ul {list-style-type:none;}
+{html}
+h1{text-align:center;color:;}
+p{
+    color:#7C3AED
+}
+body 
+{background-color:#F5F3FF;
+ border:4px solid #7C3AED;
+ border-radius:8px;
+}
+ul {
+    list-style-type:none;
+}
 li {display:inline;
     padding:10px;
    }
-marquee{color:brown;font-family:times new roman}
-    height: 100%;
-    background: 50% 50% no-repeat
+marquee{
+    color:#C4B5FD;
+    font-family:"times new roman", 
+    serif; height: 100%;
+}
       
