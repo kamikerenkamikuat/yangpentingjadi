@@ -1,24 +1,49 @@
-{html}
-h1{text-align:center;
-   color:#7C3AED;
-  }
-p{
-    color:#7C3AED
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+    text-align: center;
+    color: #7C3AED;
 }
-body 
-{background-color:#F5F3FF;
- border:4px solid #7C3AED;
- border-radius:8px;
+
+p {
+    color: #7C3AED;
 }
+
+body {
+    background-color: #F5F3FF;
+    border: 4px solid #7C3AED;
+    border-radius: 8px;
+}
+
 ul {
-    list-style-type:none;
+    list-style-type: none;
 }
-li {display:inline;
-    padding:10px;
-   }
-marquee{
-    color:#C4B5FD;
-    font-family:"times new roman", 
-    serif; height: 100%;
+
+li {
+    display: inline;
+    padding: 10px;
 }
-      
+
+marquee {
+    color: #C4B5FD;
+    font-family: "Times New Roman", serif;
+}
+</style>
+</head>
+
+<body>
+    <h1>Website Gue 💜</h1>
+    <p>Halo cuy!</p>
+
+    <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Contact</li>
+    </ul>
+
+    <marquee>Welcome to my website!</marquee>
+</body>
+</html>
+
