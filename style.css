@@ -33,11 +33,11 @@ marquee {
     color: #B45309;
     font-family: "Times New Roman", serif;
 }
+
 img {
-    width: 300px;
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
 }
    
