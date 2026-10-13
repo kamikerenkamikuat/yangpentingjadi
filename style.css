@@ -1,19 +1,19 @@
 html
 body {
-    background-color: #FFB915;
-    border: 4px solid #000080;
+    background-color: #7997E6;
+    border: 4px solid #0E155E;
     border-radius: 12px;
     padding: 20px;
     font-family: Arial, sans-serif;
 }
 
 h1 {
-    color: #000080;
+    color: #206ABC;
     text-align: center;
 }
 
 p {
-    color: #003F66;
+    color: #206ABC;
     text-align: center;
 }
 
@@ -26,11 +26,11 @@ ul {
 li {
     display: inline-block;
     padding: 10px 15px;
-    color: #FFD358;
+    color: #206ABC;
 }
 
 marquee {
-    color: #FFD358;
+    color: #206ABC;
     font-family: "Times New Roman", serif;
 }
 
